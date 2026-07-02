@@ -41,9 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/NS145/leetcode_Progress-/tree/master/0069-sqrtx) |
 | [0374-guess-number-higher-or-lower](https://github.com/NS145/leetcode_Progress-/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/NS145/leetcode_Progress-/tree/master/0374-guess-number-higher-or-lower) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/NS145/leetcode_Progress-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
