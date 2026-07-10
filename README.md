@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/NS145/leetcode_Progress-/tree/master/0041-first-missing-positive) |
 | [0560-subarray-sum-equals-k](https://github.com/NS145/leetcode_Progress-/tree/master/0560-subarray-sum-equals-k) |
+| [0895-maximum-frequency-stack](https://github.com/NS145/leetcode_Progress-/tree/master/0895-maximum-frequency-stack) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NS145/leetcode_Progress-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -65,10 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/NS145/leetcode_Progress-/tree/master/0071-simplify-path) |
+| [0895-maximum-frequency-stack](https://github.com/NS145/leetcode_Progress-/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/NS145/leetcode_Progress-/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
+| [0895-maximum-frequency-stack](https://github.com/NS145/leetcode_Progress-/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/NS145/leetcode_Progress-/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -83,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NS145/leetcode_Progress-/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/NS145/leetcode_Progress-/tree/master/0560-subarray-sum-equals-k) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/NS145/leetcode_Progress-/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
