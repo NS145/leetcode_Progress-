@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/NS145/leetcode_Progress-/tree/master/0410-split-array-largest-sum) |
 | [0427-construct-quad-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0427-construct-quad-tree) |
 | [0560-subarray-sum-equals-k](https://github.com/NS145/leetcode_Progress-/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/NS145/leetcode_Progress-/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/NS145/leetcode_Progress-/tree/master/0881-boats-to-save-people) |
 | [0994-rotting-oranges](https://github.com/NS145/leetcode_Progress-/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NS145/leetcode_Progress-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/NS145/leetcode_Progress-/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/NS145/leetcode_Progress-/tree/master/0209-minimum-size-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/NS145/leetcode_Progress-/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NS145/leetcode_Progress-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/NS145/leetcode_Progress-/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/NS145/leetcode_Progress-/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/NS145/leetcode_Progress-/tree/master/0410-split-array-largest-sum) |
+| [0658-find-k-closest-elements](https://github.com/NS145/leetcode_Progress-/tree/master/0658-find-k-closest-elements) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NS145/leetcode_Progress-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/NS145/leetcode_Progress-/tree/master/1095-find-in-mountain-array) |
 ## Interactive
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/NS145/leetcode_Progress-/tree/master/0018-4sum) |
+| [0658-find-k-closest-elements](https://github.com/NS145/leetcode_Progress-/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/NS145/leetcode_Progress-/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/NS145/leetcode_Progress-/tree/master/0018-4sum) |
+| [0658-find-k-closest-elements](https://github.com/NS145/leetcode_Progress-/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/NS145/leetcode_Progress-/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
@@ -158,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NS145/leetcode_Progress-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0427-construct-quad-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0427-construct-quad-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/NS145/leetcode_Progress-/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
