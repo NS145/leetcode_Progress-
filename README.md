@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/NS145/leetcode_Progress-/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/NS145/leetcode_Progress-/tree/master/0076-minimum-window-substring) |
+| [0460-lfu-cache](https://github.com/NS145/leetcode_Progress-/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/NS145/leetcode_Progress-/tree/master/0560-subarray-sum-equals-k) |
 | [0895-maximum-frequency-stack](https://github.com/NS145/leetcode_Progress-/tree/master/0895-maximum-frequency-stack) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NS145/leetcode_Progress-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/NS145/leetcode_Progress-/tree/master/0304-range-sum-query-2d-immutable) |
+| [0460-lfu-cache](https://github.com/NS145/leetcode_Progress-/tree/master/0460-lfu-cache) |
 | [0895-maximum-frequency-stack](https://github.com/NS145/leetcode_Progress-/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/NS145/leetcode_Progress-/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
@@ -129,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/NS145/leetcode_Progress-/tree/master/0410-split-array-largest-sum) |
+## Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/NS145/leetcode_Progress-/tree/master/0460-lfu-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/NS145/leetcode_Progress-/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
