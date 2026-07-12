@@ -36,17 +36,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NS145/leetcode_Progress-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0337-house-robber-iii](https://github.com/NS145/leetcode_Progress-/tree/master/0337-house-robber-iii) |
 | [0427-construct-quad-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0427-construct-quad-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/NS145/leetcode_Progress-/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0101-symmetric-tree) |
 | [0337-house-robber-iii](https://github.com/NS145/leetcode_Progress-/tree/master/0337-house-robber-iii) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/NS145/leetcode_Progress-/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NS145/leetcode_Progress-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0337-house-robber-iii](https://github.com/NS145/leetcode_Progress-/tree/master/0337-house-robber-iii) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/NS145/leetcode_Progress-/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Hash Table
 |  |
 | ------- |
