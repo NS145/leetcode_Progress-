@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/NS145/leetcode_Progress-/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/NS145/leetcode_Progress-/tree/master/0069-sqrtx) |
 ## Stack
 |  |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/NS145/leetcode_Progress-/tree/master/0658-find-k-closest-elements) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/NS145/leetcode_Progress-/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
