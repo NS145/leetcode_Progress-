@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0101-symmetric-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/NS145/leetcode_Progress-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0337-house-robber-iii](https://github.com/NS145/leetcode_Progress-/tree/master/0337-house-robber-iii) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/NS145/leetcode_Progress-/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/NS145/leetcode_Progress-/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/NS145/leetcode_Progress-/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/NS145/leetcode_Progress-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NS145/leetcode_Progress-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/NS145/leetcode_Progress-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0304-range-sum-query-2d-immutable](https://github.com/NS145/leetcode_Progress-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0460-lfu-cache](https://github.com/NS145/leetcode_Progress-/tree/master/0460-lfu-cache) |
 | [0895-maximum-frequency-stack](https://github.com/NS145/leetcode_Progress-/tree/master/0895-maximum-frequency-stack) |
@@ -184,4 +187,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/NS145/leetcode_Progress-/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
