@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/NS145/leetcode_Progress-/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/NS145/leetcode_Progress-/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NS145/leetcode_Progress-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0208-implement-trie-prefix-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0208-implement-trie-prefix-tree) |
 | [0460-lfu-cache](https://github.com/NS145/leetcode_Progress-/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/NS145/leetcode_Progress-/tree/master/0560-subarray-sum-equals-k) |
 | [0895-maximum-frequency-stack](https://github.com/NS145/leetcode_Progress-/tree/master/0895-maximum-frequency-stack) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/NS145/leetcode_Progress-/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/NS145/leetcode_Progress-/tree/master/0076-minimum-window-substring) |
+| [0208-implement-trie-prefix-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0208-implement-trie-prefix-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NS145/leetcode_Progress-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0208-implement-trie-prefix-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/NS145/leetcode_Progress-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0460-lfu-cache](https://github.com/NS145/leetcode_Progress-/tree/master/0460-lfu-cache) |
 | [0895-maximum-frequency-stack](https://github.com/NS145/leetcode_Progress-/tree/master/0895-maximum-frequency-stack) |
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/NS145/leetcode_Progress-/tree/master/0371-sum-of-two-integers) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
