@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NS145/leetcode_Progress-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NS145/leetcode_Progress-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/NS145/leetcode_Progress-/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/NS145/leetcode_Progress-/tree/master/0212-word-search-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/NS145/leetcode_Progress-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/NS145/leetcode_Progress-/tree/master/0410-split-array-largest-sum) |
 | [0427-construct-quad-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0427-construct-quad-tree) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/NS145/leetcode_Progress-/tree/master/0212-word-search-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/NS145/leetcode_Progress-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0427-construct-quad-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0427-construct-quad-tree) |
 | [0994-rotting-oranges](https://github.com/NS145/leetcode_Progress-/tree/master/0994-rotting-oranges) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/NS145/leetcode_Progress-/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/NS145/leetcode_Progress-/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/NS145/leetcode_Progress-/tree/master/0212-word-search-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NS145/leetcode_Progress-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2707-extra-characters-in-a-string](https://github.com/NS145/leetcode_Progress-/tree/master/2707-extra-characters-in-a-string) |
 ## Sliding Window
@@ -192,5 +195,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/NS145/leetcode_Progress-/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/NS145/leetcode_Progress-/tree/master/0212-word-search-ii) |
 | [2707-extra-characters-in-a-string](https://github.com/NS145/leetcode_Progress-/tree/master/2707-extra-characters-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/NS145/leetcode_Progress-/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
