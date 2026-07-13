@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/NS145/leetcode_Progress-/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NS145/leetcode_Progress-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/NS145/leetcode_Progress-/tree/master/1095-find-in-mountain-array) |
+| [2707-extra-characters-in-a-string](https://github.com/NS145/leetcode_Progress-/tree/master/2707-extra-characters-in-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/NS145/leetcode_Progress-/tree/master/0560-subarray-sum-equals-k) |
 | [0895-maximum-frequency-stack](https://github.com/NS145/leetcode_Progress-/tree/master/0895-maximum-frequency-stack) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NS145/leetcode_Progress-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2707-extra-characters-in-a-string](https://github.com/NS145/leetcode_Progress-/tree/master/2707-extra-characters-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/NS145/leetcode_Progress-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NS145/leetcode_Progress-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2707-extra-characters-in-a-string](https://github.com/NS145/leetcode_Progress-/tree/master/2707-extra-characters-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0337-house-robber-iii](https://github.com/NS145/leetcode_Progress-/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/NS145/leetcode_Progress-/tree/master/0410-split-array-largest-sum) |
+| [2707-extra-characters-in-a-string](https://github.com/NS145/leetcode_Progress-/tree/master/2707-extra-characters-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -188,4 +192,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/NS145/leetcode_Progress-/tree/master/0211-design-add-and-search-words-data-structure) |
+| [2707-extra-characters-in-a-string](https://github.com/NS145/leetcode_Progress-/tree/master/2707-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
