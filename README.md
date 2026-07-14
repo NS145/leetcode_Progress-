@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/NS145/leetcode_Progress-/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/NS145/leetcode_Progress-/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NS145/leetcode_Progress-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0160-intersection-of-two-linked-lists](https://github.com/NS145/leetcode_Progress-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0208-implement-trie-prefix-tree) |
 | [0460-lfu-cache](https://github.com/NS145/leetcode_Progress-/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/NS145/leetcode_Progress-/tree/master/0560-subarray-sum-equals-k) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NS145/leetcode_Progress-/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/NS145/leetcode_Progress-/tree/master/0018-4sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/NS145/leetcode_Progress-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0658-find-k-closest-elements](https://github.com/NS145/leetcode_Progress-/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/NS145/leetcode_Progress-/tree/master/0881-boats-to-save-people) |
 ## Greedy
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/NS145/leetcode_Progress-/tree/master/0092-reverse-linked-list-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/NS145/leetcode_Progress-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/NS145/leetcode_Progress-/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/NS145/leetcode_Progress-/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
