@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/NS145/leetcode_Progress-/tree/master/0881-boats-to-save-people) |
 | [0994-rotting-oranges](https://github.com/NS145/leetcode_Progress-/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NS145/leetcode_Progress-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/NS145/leetcode_Progress-/tree/master/1046-last-stone-weight) |
 | [1095-find-in-mountain-array](https://github.com/NS145/leetcode_Progress-/tree/master/1095-find-in-mountain-array) |
 | [2707-extra-characters-in-a-string](https://github.com/NS145/leetcode_Progress-/tree/master/2707-extra-characters-in-a-string) |
 ## Breadth-First Search
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/NS145/leetcode_Progress-/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NS145/leetcode_Progress-/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/NS145/leetcode_Progress-/tree/master/1046-last-stone-weight) |
 ## Recursion
 |  |
 | ------- |
