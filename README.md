@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NS145/leetcode_Progress-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NS145/leetcode_Progress-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0208-implement-trie-prefix-tree) |
+| [0355-design-twitter](https://github.com/NS145/leetcode_Progress-/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/NS145/leetcode_Progress-/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/NS145/leetcode_Progress-/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/NS145/leetcode_Progress-/tree/master/0621-task-scheduler) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/NS145/leetcode_Progress-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/NS145/leetcode_Progress-/tree/master/0304-range-sum-query-2d-immutable) |
+| [0355-design-twitter](https://github.com/NS145/leetcode_Progress-/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/NS145/leetcode_Progress-/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NS145/leetcode_Progress-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0895-maximum-frequency-stack](https://github.com/NS145/leetcode_Progress-/tree/master/0895-maximum-frequency-stack) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/NS145/leetcode_Progress-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/NS145/leetcode_Progress-/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/NS145/leetcode_Progress-/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/NS145/leetcode_Progress-/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/NS145/leetcode_Progress-/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/NS145/leetcode_Progress-/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/NS145/leetcode_Progress-/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/NS145/leetcode_Progress-/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NS145/leetcode_Progress-/tree/master/0703-kth-largest-element-in-a-stream) |
