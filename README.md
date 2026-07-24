@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/NS145/leetcode_Progress-/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/NS145/leetcode_Progress-/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/NS145/leetcode_Progress-/tree/master/0881-boats-to-save-people) |
+| [0973-k-closest-points-to-origin](https://github.com/NS145/leetcode_Progress-/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/NS145/leetcode_Progress-/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NS145/leetcode_Progress-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/NS145/leetcode_Progress-/tree/master/1046-last-stone-weight) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/NS145/leetcode_Progress-/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/NS145/leetcode_Progress-/tree/master/0069-sqrtx) |
 | [0371-sum-of-two-integers](https://github.com/NS145/leetcode_Progress-/tree/master/0371-sum-of-two-integers) |
+| [0973-k-closest-points-to-origin](https://github.com/NS145/leetcode_Progress-/tree/master/0973-k-closest-points-to-origin) |
 ## Stack
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/NS145/leetcode_Progress-/tree/master/0018-4sum) |
 | [0658-find-k-closest-elements](https://github.com/NS145/leetcode_Progress-/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/NS145/leetcode_Progress-/tree/master/0881-boats-to-save-people) |
+| [0973-k-closest-points-to-origin](https://github.com/NS145/leetcode_Progress-/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -207,11 +210,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NS145/leetcode_Progress-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0427-construct-quad-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0427-construct-quad-tree) |
+| [0973-k-closest-points-to-origin](https://github.com/NS145/leetcode_Progress-/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/NS145/leetcode_Progress-/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NS145/leetcode_Progress-/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/NS145/leetcode_Progress-/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/NS145/leetcode_Progress-/tree/master/1046-last-stone-weight) |
 ## Recursion
 |  |
@@ -237,4 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NS145/leetcode_Progress-/tree/master/0703-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/NS145/leetcode_Progress-/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/NS145/leetcode_Progress-/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
