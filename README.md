@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/NS145/leetcode_Progress-/tree/master/0069-sqrtx) |
 | [0371-sum-of-two-integers](https://github.com/NS145/leetcode_Progress-/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/NS145/leetcode_Progress-/tree/master/0973-k-closest-points-to-origin) |
+| [1137-n-th-tribonacci-number](https://github.com/NS145/leetcode_Progress-/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/NS145/leetcode_Progress-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/NS145/leetcode_Progress-/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/NS145/leetcode_Progress-/tree/master/0410-split-array-largest-sum) |
+| [1137-n-th-tribonacci-number](https://github.com/NS145/leetcode_Progress-/tree/master/1137-n-th-tribonacci-number) |
 | [2707-extra-characters-in-a-string](https://github.com/NS145/leetcode_Progress-/tree/master/2707-extra-characters-in-a-string) |
 ## Linked List
 |  |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/NS145/leetcode_Progress-/tree/master/0621-task-scheduler) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/NS145/leetcode_Progress-/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
