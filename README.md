@@ -275,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/NS145/leetcode_Progress-/tree/master/1137-n-th-tribonacci-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/NS145/leetcode_Progress-/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
