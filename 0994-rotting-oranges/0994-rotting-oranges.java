@@ -1,56 +1,47 @@
-class pair{
-    int row;
-    int col; 
-    int tm;
-    pair(int row, int col, int tm){
-        this.row = row;
-        this.col = col;
-        this.tm = tm;
-    }
-}
-
 class Solution {
     public int orangesRotting(int[][] grid) {
-        int n = grid.length;
-        int m = grid[0].length;
+        int fresh = 0;
+        int time = 0;
+        int rows = grid.length;
+        int cols = grid[0].length;
+        int[][] directions = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
 
-        int[][] visited = new int[n][m];
-        Queue<pair> q = new LinkedList<>();
-        int freshCnt = 0;
-
-        for(int i=0; i<n; i++){
-            for(int j=0; j<m; j++){
-                if(grid[i][j]==2){
-                    visited[i][j] = 2;
-                    q.add(new pair(i, j, 0));
-                }
-                if(grid[i][j]==1){
-                    freshCnt++;
-                }
+        for(int i=0; i<rows; i++){
+            for(int j=0; j<cols; j++){
+                if(grid[i][j]==1) fresh++;
             }
         }
-        int tm = 0;
-        int Drow[] = {-1, 0, +1, 0};
-        int Dcol[] = {0, 1, 0, -1};
-        int cnt = 0;
-        while(!q.isEmpty()){
-            int r = q.peek().row;
-            int c = q.peek().col;
-            int t = q.peek().tm;
-            tm = Math.max(tm, t);
-            q.remove();
-            for(int i=0; i<4; i++){
-                int nrow = r + Drow[i];
-                int ncol = c + Dcol[i];
-                
-                if(nrow >= 0 && nrow < n && ncol >= 0 && ncol < m && visited[nrow][ncol] == 0 && grid[nrow][ncol]==1){
-                    q.add(new pair(nrow, ncol, t+1));
-                    visited[nrow][ncol] = 2;
-                    cnt++;
+
+        while(fresh > 0){
+            boolean flag = false;
+            for(int i=0; i<rows; i++){
+                for(int j=0; j<cols; j++){
+                    if(grid[i][j]==2){
+                        for(int[] d : directions){
+                            int currRow = i + d[0];
+                            int currCol = j + d[1];
+                            if(currRow >= 0 && currCol >= 0 &&
+                                currRow < rows && currCol < cols &&
+                                grid[currRow][currCol]==1){
+                                    grid[currRow][currCol] = 3;
+                                    fresh--;
+                                    flag = true;
+                                }
+                        }
+                    }
                 }
             }
+            if(!flag) return -1;
+
+            for(int i=0; i<rows; i++){
+                for(int j=0; j<cols; j++){
+                    if(grid[i][j]==3){
+                        grid[i][j]=2;
+                    }
+                }
+            }
+            time++;
         }
-        if(cnt != freshCnt) return -1;
-        return tm;
+        return time;
     }
 }
