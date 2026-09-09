@@ -1,5 +1,5 @@
 /*
-Definition for a Node.
+// Definition for a Node.
 class Node {
     public int val;
     public List<Node> neighbors;
@@ -20,8 +20,8 @@ class Node {
 
 class Solution {
     public Node cloneGraph(Node node) {
-        if(node == null)return null;
-        Map<Node,Node> map = new HashMap<>();
+        if(node == null) return null;
+        Map<Node, Node> map = new HashMap<>();
         Queue<Node> q = new LinkedList<>();
         q.add(node);
         map.put(node, new Node(node.val));
