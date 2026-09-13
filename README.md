@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NS145/leetcode_Progress-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/NS145/leetcode_Progress-/tree/master/1046-last-stone-weight) |
 | [1095-find-in-mountain-array](https://github.com/NS145/leetcode_Progress-/tree/master/1095-find-in-mountain-array) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/NS145/leetcode_Progress-/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2707-extra-characters-in-a-string](https://github.com/NS145/leetcode_Progress-/tree/master/2707-extra-characters-in-a-string) |
 ## Breadth-First Search
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0695-max-area-of-island](https://github.com/NS145/leetcode_Progress-/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/NS145/leetcode_Progress-/tree/master/0994-rotting-oranges) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/NS145/leetcode_Progress-/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0427-construct-quad-tree) |
 | [0695-max-area-of-island](https://github.com/NS145/leetcode_Progress-/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/NS145/leetcode_Progress-/tree/master/0994-rotting-oranges) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/NS145/leetcode_Progress-/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Tree
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/NS145/leetcode_Progress-/tree/master/0337-house-robber-iii) |
 | [0695-max-area-of-island](https://github.com/NS145/leetcode_Progress-/tree/master/0695-max-area-of-island) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/NS145/leetcode_Progress-/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/NS145/leetcode_Progress-/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NS145/leetcode_Progress-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/NS145/leetcode_Progress-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/NS145/leetcode_Progress-/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/NS145/leetcode_Progress-/tree/master/0695-max-area-of-island) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/NS145/leetcode_Progress-/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Graph Theory
 |  |
 | ------- |
