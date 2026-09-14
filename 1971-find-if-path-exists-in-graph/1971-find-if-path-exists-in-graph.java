@@ -1,32 +1,39 @@
 class Solution {
-    boolean found = false;
     public boolean validPath(int n, int[][] edges, int source, int destination) {
-        if(source == destination) return true;
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
 
-        Map<Integer, List<Integer>> graph = new HashMap<>();
-        boolean[] vis = new boolean[n];
+        for(int i = 0; i < n; i++){
+            adj.add(new ArrayList<>());
+        }
 
-        for(int i=0; i<n; i++){
-            graph.put(i, new ArrayList());
+        for(int[] edge: edges){
+            int u = edge[0];
+            int v = edge[1];
+
+            adj.get(u).add(v);
+            adj.get(v).add(u);
         }
-        for(int[] edge : edges){
-            graph.get(edge[0]).add(edge[1]);
-            graph.get(edge[1]).add(edge[0]);
-        }
-        dfs(graph, vis, source, destination);
-        return found;
-    }
-    void dfs(Map<Integer, List<Integer>> graph, boolean[] vis, int start, int end){
-        if(vis[start] || found) return;
-        vis[start] = true;
-        for(int nei : graph.get(start)){
-            if(nei == end){
-                found = true;
-                break;
+
+        boolean[] visited = new boolean[n];
+        Queue<Integer> q = new ArrayDeque<>();
+
+        q.offer(source);
+        visited[source] = true;
+
+        while(!q.isEmpty()){
+            int curNode = q.poll();
+            
+            if(curNode == destination){
+                return true;
             }
-            if(!vis[nei]){
-                dfs(graph, vis, nei, end);
+
+            for(Integer neighbour : adj.get(curNode)){
+                if(!visited[neighbour]){
+                    q.offer(neighbour);
+                    visited[neighbour] = true;
+                }
             }
         }
+        return false;
     }
 }
