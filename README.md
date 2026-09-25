@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NS145/leetcode_Progress-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/NS145/leetcode_Progress-/tree/master/1046-last-stone-weight) |
 | [1095-find-in-mountain-array](https://github.com/NS145/leetcode_Progress-/tree/master/1095-find-in-mountain-array) |
+| [1306-jump-game-iii](https://github.com/NS145/leetcode_Progress-/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NS145/leetcode_Progress-/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2707-extra-characters-in-a-string](https://github.com/NS145/leetcode_Progress-/tree/master/2707-extra-characters-in-a-string) |
 ## Breadth-First Search
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/NS145/leetcode_Progress-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/NS145/leetcode_Progress-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/NS145/leetcode_Progress-/tree/master/0994-rotting-oranges) |
+| [1306-jump-game-iii](https://github.com/NS145/leetcode_Progress-/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NS145/leetcode_Progress-/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/NS145/leetcode_Progress-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/NS145/leetcode_Progress-/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/NS145/leetcode_Progress-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/NS145/leetcode_Progress-/tree/master/0733-flood-fill) |
+| [1306-jump-game-iii](https://github.com/NS145/leetcode_Progress-/tree/master/1306-jump-game-iii) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/NS145/leetcode_Progress-/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NS145/leetcode_Progress-/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/NS145/leetcode_Progress-/tree/master/1971-find-if-path-exists-in-graph) |
