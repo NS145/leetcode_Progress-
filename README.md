@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/NS145/leetcode_Progress-/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/NS145/leetcode_Progress-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/NS145/leetcode_Progress-/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/NS145/leetcode_Progress-/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/NS145/leetcode_Progress-/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/NS145/leetcode_Progress-/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NS145/leetcode_Progress-/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/NS145/leetcode_Progress-/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/NS145/leetcode_Progress-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/NS145/leetcode_Progress-/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/NS145/leetcode_Progress-/tree/master/0802-find-eventual-safe-states) |
 | [1306-jump-game-iii](https://github.com/NS145/leetcode_Progress-/tree/master/1306-jump-game-iii) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/NS145/leetcode_Progress-/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NS145/leetcode_Progress-/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -331,11 +333,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/NS145/leetcode_Progress-/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/NS145/leetcode_Progress-/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/NS145/leetcode_Progress-/tree/master/0399-evaluate-division) |
+| [0802-find-eventual-safe-states](https://github.com/NS145/leetcode_Progress-/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/NS145/leetcode_Progress-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/NS145/leetcode_Progress-/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/NS145/leetcode_Progress-/tree/master/0802-find-eventual-safe-states) |
 ## Shortest Path
 |  |
 | ------- |
@@ -348,4 +352,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/NS145/leetcode_Progress-/tree/master/0399-evaluate-division) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/NS145/leetcode_Progress-/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/NS145/leetcode_Progress-/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
