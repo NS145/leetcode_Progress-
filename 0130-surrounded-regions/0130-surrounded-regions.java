@@ -1,58 +1,48 @@
 class Solution {
+    int[][] directions = {{1,0}, {0,1}, {-1,0}, {0,-1}};
     public void solve(char[][] board) {
-        int row = board.length;
-        int col = board[0].length;
+        int rows = board.length;
+        int cols = board[0].length;
 
-        // flag matrix for checking if the cell is visited 
-        boolean[][] vis = new boolean[row][col];
+        boolean[][] visited = new boolean[rows][cols];
+       
+       for(int i=0; i<rows; i++){
+        if(board[i][0]=='O' && visited[i][0]==false){
+            dfs(board, i, 0, visited);
+        }
+        
+        if(board[i][cols-1]=='O' && visited[i][cols-1]==false){
+            dfs(board, i, cols-1, visited);
+        }
+       }
 
-        // DFS from first col and last col in the matrix 
-        for(int i=0; i<row; i++){
-            // first row 
-            if(board[i][0]=='O' && vis[i][0]==false){
-                dfs(i, 0, board, vis);
-            }
-            // last row
-            if(board[i][col-1]=='O' && vis[i][col-1]==false){
-                dfs(i, col-1, board, vis);
-            }
+       for(int j=0; j<cols; j++){
+        if(board[0][j]=='O' && visited[0][j]==false){
+            dfs(board, 0, j, visited);
         }
 
-        //DFS from first row and last row 
-        for(int j=0; j<col; j++){
-            //first col
-            if(board[0][j]=='O' && vis[0][j]==false){
-                dfs(0, j, board, vis);
-            }
-            // last col
-            if(board[row-1][j]=='O' && vis[row-1][j]==false){
-                dfs(row-1, j, board, vis);
-            }
+        if(board[rows-1][j]=='O' && visited[rows-1][j]==false){
+            dfs(board, rows-1, j, visited);
         }
+       }
 
-        // turning O to X if inside the board and not touching the borders 
-        for(int i=0; i<row; i++){
-            for(int j=0; j<col; j++){
-                if(board[i][j]=='O' && vis[i][j]==false){
+        for(int i=0; i<rows; i++){
+            for(int j=0; j<cols; j++){
+                if(board[i][j]=='O' && visited[i][j]==false){
                     board[i][j] = 'X';
                 }
             }
         }
     }
-    public void dfs(int i, int j, char board[][], boolean vis[][]){
-        int row = board.length;
-        int col = board[0].length;
-
-        int[][] directions = {{1,0}, {0,1}, {-1,0}, {0,-1}};
-
-        if(i<0 || j<0 || i>=row || j>=col || vis[i][j]==true || board[i][j]=='X'){
+    void dfs(char[][] board, int i, int j, boolean[][] visited){
+        if(i < 0 || j < 0 || i >= board.length || j >= board[0].length || visited[i][j] == true || board[i][j]=='X'){
             return;
         }
 
-        vis[i][j] = true;
+        visited[i][j] = true;
 
         for(int[] dir : directions){
-            dfs(i + dir[0], j + dir[1], board, vis);
+            dfs(board, i+dir[0], j+dir[1], visited);
         }
     }
 }
