@@ -1,47 +1,51 @@
 class Solution {
-    int[][] directions = {{1,0}, {0,1}, {-1,0}, {0,-1}};
     public int orangesRotting(int[][] grid) {
         int rows = grid.length;
         int cols = grid[0].length;
 
-        Queue<int[]> q = new LinkedList<>();
         int fresh = 0;
+        Queue<int[]> q = new LinkedList<>();
         for(int i=0; i<rows; i++){
             for(int j=0; j<cols; j++){
-                if(grid[i][j]==2){
-                    q.offer(new int[]{i, j});
-                }else if(grid[i][j]==1){
+                if(grid[i][j] == 1){
                     fresh++;
+                }
+                if(grid[i][j] == 2){
+                    q.offer(new int[]{i, j});
                 }
             }
         }
 
         int minutes = 0;
-        while(!q.isEmpty() && fresh > 0){
+        while(fresh > 0 && !q.isEmpty()){
             int size = q.size();
-
             for(int i=0; i<size; i++){
-                int[] currFruit = q.poll();
-                int curri = currFruit[0];
-                int currj = currFruit[1];
+                int[] currCell = q.poll();
+                int celli = currCell[0];
+                int cellj = currCell[1];
 
+                int[][] directions = {{1,0}, {0,1}, {-1,0}, {0,-1}};
                 for(int[] dir : directions){
-                    int ni = curri + dir[0];
-                    int nj = currj + dir[1];
+                    int nextCelli = celli + dir[0];
+                    int nextCellj = cellj + dir[1];
 
-                    if(ni < 0 || nj < 0 || ni >= grid.length || nj >= grid[0].length){
+                    if(nextCelli < 0 || nextCellj < 0 || nextCelli >= rows || nextCellj >= cols){
                         continue;
                     }
 
-                    if(grid[ni][nj] == 1){
-                        q.offer(new int[]{ni, nj});
-                        grid[ni][nj] = 2;
+                    if(grid[nextCelli][nextCellj] == 1){
+                        q.offer(new int[]{nextCelli, nextCellj});
+                        grid[nextCelli][nextCellj] = 2;
                         fresh--;
                     }
                 }
             }
             minutes++;
         }
-        return fresh == 0 ? minutes : -1;
+        if(fresh == 0){
+            return minutes;
+        }else{
+            return -1;
+        }
     }
 }
