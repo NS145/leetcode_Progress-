@@ -1,34 +1,36 @@
 class Solution {
     public List<Integer> eventualSafeNodes(int[][] graph) {
         int n = graph.length;
-
-        List<List<Integer>> req = new ArrayList<>();
+        List<List<Integer>> nodesIn = new ArrayList<>();
+        
         for(int i=0; i<n; i++){
-            req.add(new ArrayList());
+            nodesIn.add(new ArrayList());
         }
 
-        int[] indegree = new int[n];
+        int[] outdegree = new int[n];
         for(int i=0; i<n; i++){
-            for(int connect : graph[i]){
-                req.get(connect).add(i);
-                indegree[i] = graph[i].length;
+            for(int node : graph[i]){
+                outdegree[i] = graph[i].length;
+                nodesIn.get(node).add(i);
             }
         }
 
-        Queue<Integer> queue = new LinkedList<>();
-        for(int i=0; i<n; i++){
-            if(indegree[i] == 0){
-                queue.offer(i);
+        Queue<Integer> q = new LinkedList<>();
+        for(int i=0; i<outdegree.length; i++){
+            if(outdegree[i] == 0){
+                q.offer(i);
             }
         }
         List<Integer> result = new ArrayList<>();
-        while(!queue.isEmpty()){
-            int curr = queue.poll();
-            result.add(curr);
+        while(!q.isEmpty()){
+            int currNode = q.poll();
+            result.add(currNode);
 
-            for(int node : req.get(curr)){
-                indegree[node]--;
-                if(indegree[node] == 0) queue.offer(node);
+            for(int node : nodesIn.get(currNode)){
+                outdegree[node]--;
+                if(outdegree[node] == 0){
+                    q.offer(node);
+                }
             }
         }
         Collections.sort(result);
