@@ -10,7 +10,7 @@ class Solution {
             if(arr[curr] < 0) continue;
 
             int jump = arr[curr];
-            arr[curr] = -arr[curr];
+            arr[curr] = -1;
 
             if(curr + jump < arr.length){
                 q.offer(curr + jump);
