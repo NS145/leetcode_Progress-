@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/NS145/leetcode_Progress-/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/NS145/leetcode_Progress-/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/NS145/leetcode_Progress-/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/NS145/leetcode_Progress-/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/NS145/leetcode_Progress-/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/NS145/leetcode_Progress-/tree/master/0695-max-area-of-island) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/NS145/leetcode_Progress-/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/NS145/leetcode_Progress-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/NS145/leetcode_Progress-/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/NS145/leetcode_Progress-/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/NS145/leetcode_Progress-/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/NS145/leetcode_Progress-/tree/master/0547-number-of-provinces) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/NS145/leetcode_Progress-/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/NS145/leetcode_Progress-/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/NS145/leetcode_Progress-/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/NS145/leetcode_Progress-/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/NS145/leetcode_Progress-/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/NS145/leetcode_Progress-/tree/master/0802-find-eventual-safe-states) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/NS145/leetcode_Progress-/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/NS145/leetcode_Progress-/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/NS145/leetcode_Progress-/tree/master/0802-find-eventual-safe-states) |
 ## Shortest Path
 |  |
