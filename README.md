@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NS145/leetcode_Progress-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0127-word-ladder](https://github.com/NS145/leetcode_Progress-/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/NS145/leetcode_Progress-/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/NS145/leetcode_Progress-/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/NS145/leetcode_Progress-/tree/master/0200-number-of-islands) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/NS145/leetcode_Progress-/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/NS145/leetcode_Progress-/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NS145/leetcode_Progress-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/NS145/leetcode_Progress-/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/NS145/leetcode_Progress-/tree/master/0133-clone-graph) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NS145/leetcode_Progress-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0208-implement-trie-prefix-tree) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/NS145/leetcode_Progress-/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/NS145/leetcode_Progress-/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/NS145/leetcode_Progress-/tree/master/0091-decode-ways) |
+| [0127-word-ladder](https://github.com/NS145/leetcode_Progress-/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/NS145/leetcode_Progress-/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/NS145/leetcode_Progress-/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/NS145/leetcode_Progress-/tree/master/0212-word-search-ii) |
@@ -378,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/NS145/leetcode_Progress-/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/NS145/leetcode_Progress-/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
