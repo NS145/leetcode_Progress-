@@ -8,8 +8,8 @@ class Solution {
         }
 
         for(int[] pre : prerequisites){
-            int course = pre[1];
-            int reqCourse = pre[0];
+            int course = pre[0];
+            int reqCourse = pre[1];
 
             indegree[course]++;
             graph.get(reqCourse).add(course); 
@@ -26,7 +26,7 @@ class Solution {
         }
         while(!q.isEmpty()){
             int curr = q.poll();
-            res[numCourses - finished - 1] = curr;
+            res[finished] = curr;
             finished++;
             for(int ele : graph.get(curr)){
                 indegree[ele]--;
