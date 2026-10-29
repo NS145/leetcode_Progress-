@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/NS145/leetcode_Progress-/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/NS145/leetcode_Progress-/tree/master/0041-first-missing-positive) |
+| [0078-subsets](https://github.com/NS145/leetcode_Progress-/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NS145/leetcode_Progress-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NS145/leetcode_Progress-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/NS145/leetcode_Progress-/tree/master/0130-surrounded-regions) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/NS145/leetcode_Progress-/tree/master/0078-subsets) |
 | [0371-sum-of-two-integers](https://github.com/NS145/leetcode_Progress-/tree/master/0371-sum-of-two-integers) |
 ## Trie
 |  |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/NS145/leetcode_Progress-/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/NS145/leetcode_Progress-/tree/master/0212-word-search-ii) |
 ## Binary Search Tree
 |  |
