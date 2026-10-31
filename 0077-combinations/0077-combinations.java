@@ -2,9 +2,8 @@ class Solution {
     public List<List<Integer>> combine(int n, int k) {
         List<List<Integer>> result  = new ArrayList<>();
         List<Integer> combinations = new ArrayList<>();
-        int index = 1;
 
-        backtrack(n, k, result, combinations, index);
+        backtrack(n, k, result, combinations, 1);
         return result;
     }
     public void backtrack(int n, int k, List<List<Integer>> result, List<Integer> combinations, int index){
