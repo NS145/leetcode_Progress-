@@ -7,18 +7,17 @@ class Solution {
         return result;
     }
     public void backtrack(int n, int k, List<List<Integer>> result, List<Integer> combinations, int index){
-
-        if(index > n){
-            if(combinations.size() == k){
-                result.add(new ArrayList<>(combinations));
-            }
+            
+        if(combinations.size() == k){
+            result.add(new ArrayList<>(combinations));
             return;
         }
 
-        combinations.add(index);
-        backtrack(n, k, result, combinations, index + 1);
+        for(int i = index; i <= n; i++) {
+            combinations.add(i);
+            backtrack(n, k, result, combinations, i + 1);
+            combinations.remove(combinations.size() - 1);
+        }
 
-        combinations.remove(combinations.size() - 1);
-        backtrack(n, k, result, combinations, index + 1);
     }
 }
